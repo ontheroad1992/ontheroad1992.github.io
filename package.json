@@ -1,0 +1,20 @@
+{
+  "name": "blog",
+  "version": "0.0.1",
+  "description": "ontheroad1992 的博客",
+  "main": "index.js",
+  "authors": {
+    "name": "ontheroad1992",
+    "email": "h17612732670@gmail.com"
+  },
+  "repository": "https://github.com/ontheroad1992/blog.git/blog",
+  "scripts": {
+    "dev": "vuepress dev blog",
+    "build": "vuepress build blog"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.3.1",
+    "@vuepress/theme-blog": "^2.1.0"
+  }
+}

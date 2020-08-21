@@ -2,10 +2,10 @@ module.exports = {
   title: "远行的路上",
   description: "个人技术博客",
   theme: "@vuepress/theme-blog", // OR shortcut: @vuepress/blog
-  base: "/",
+  base: "/blog/",
   themeConfig: {
     /**
-     * Ref: https://vuepress-theme-blog.ulivz.com/#modifyblogpluginoptions
+     * Ref: https://vuepress-theme-blog.ulivz.com/#modifyblogpluginoptionsss
      */
     modifyBlogPluginOptions(blogPluginOptions) {
       return blogPluginOptions;

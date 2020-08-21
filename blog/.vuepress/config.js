@@ -2,6 +2,7 @@ module.exports = {
   title: "远行的路上",
   description: "个人技术博客",
   theme: "@vuepress/theme-blog", // OR shortcut: @vuepress/blog
+  base: "https://ontheroad1992.github.io/blog/",
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/#modifyblogpluginoptions
@@ -38,7 +39,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: "Privacy Policy",
+          text: "",
           link: "https://policies.google.com/privacy?hl=en-US",
         },
         {

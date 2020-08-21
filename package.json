@@ -9,8 +9,8 @@
   },
   "repository": "https://github.com/ontheroad1992/blog.git/blog",
   "scripts": {
-    "dev": "vuepress dev blog",
-    "build": "vuepress build blog"
+    "dev": "vuepress dev",
+    "build": "vuepress build"
   },
   "license": "MIT",
   "devDependencies": {
